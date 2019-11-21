@@ -5,7 +5,7 @@ version = "0.5.2"
 authors = ["dignifiedquire <dignifiedquire@gmail.com>", "laser <l@s3r.com>", "porcuquine <porcuquine@users.noreply.github.com>"]
 license = "MIT OR Apache-2.0"
 edition = "2018"
-repository = "https://github.com/finalitylabs/rust-fil-proofs"
+repository = "https://github.com/filecoin-project/rust-fil-proofs"
 readme = "README.md"
 publish = false
 
